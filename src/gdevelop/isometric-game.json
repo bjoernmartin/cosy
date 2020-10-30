@@ -29,29 +29,29 @@
     "minFPS": 10,
     "verticalSync": false,
     "platformSpecificAssets": {
-      "android-icon-144": "android-icon-144.png",
-      "android-icon-192": "android-icon-192.png",
-      "android-icon-36": "android-icon-36.png",
-      "android-icon-48": "android-icon-48.png",
-      "android-icon-72": "android-icon-72.png",
-      "android-icon-96": "android-icon-96.png",
-      "desktop-icon-512": "desktop-icon-512.png",
-      "ios-icon-100": "ios-icon-100.png",
-      "ios-icon-114": "ios-icon-114.png",
-      "ios-icon-120": "ios-icon-120.png",
-      "ios-icon-144": "ios-icon-144.png",
-      "ios-icon-152": "ios-icon-152.png",
-      "ios-icon-167": "ios-icon-167.png",
-      "ios-icon-180": "ios-icon-180.png",
-      "ios-icon-29": "ios-icon-29.png",
-      "ios-icon-40": "ios-icon-40.png",
-      "ios-icon-50": "ios-icon-50.png",
-      "ios-icon-57": "ios-icon-57.png",
-      "ios-icon-58": "ios-icon-58.png",
-      "ios-icon-60": "ios-icon-60.png",
-      "ios-icon-72": "ios-icon-72.png",
-      "ios-icon-76": "ios-icon-76.png",
-      "ios-icon-80": "ios-icon-80.png"
+      "android-icon-144": "Assets/icons/android-icon-144.png",
+      "android-icon-192": "Assets/icons/android-icon-192.png",
+      "android-icon-36": "Assets/icons/android-icon-36.png",
+      "android-icon-48": "Assets/icons/android-icon-48.png",
+      "android-icon-72": "Assets/icons/android-icon-72.png",
+      "android-icon-96": "Assets/icons/android-icon-96.png",
+      "desktop-icon-512": "Assets/icons/desktop-icon-512.png",
+      "ios-icon-100": "Assets/icons/ios-icon-100.png",
+      "ios-icon-114": "Assets/icons/ios-icon-114.png",
+      "ios-icon-120": "Assets/icons/ios-icon-120.png",
+      "ios-icon-144": "Assets/icons/ios-icon-144.png",
+      "ios-icon-152": "Assets/icons/ios-icon-152.png",
+      "ios-icon-167": "Assets/icons/ios-icon-167.png",
+      "ios-icon-180": "Assets/icons/ios-icon-180.png",
+      "ios-icon-29": "Assets/icons/ios-icon-29.png",
+      "ios-icon-40": "Assets/icons/ios-icon-40.png",
+      "ios-icon-50": "Assets/icons/ios-icon-50.png",
+      "ios-icon-57": "Assets/icons/ios-icon-57.png",
+      "ios-icon-58": "Assets/icons/ios-icon-58.png",
+      "ios-icon-60": "Assets/icons/ios-icon-60.png",
+      "ios-icon-72": "Assets/icons/ios-icon-72.png",
+      "ios-icon-76": "Assets/icons/ios-icon-76.png",
+      "ios-icon-80": "Assets/icons/ios-icon-80.png"
     },
     "loadingScreen": {
       "showGDevelopSplash": true
@@ -145,7 +145,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "desktop-icon-512.png",
+        "file": "Assets/icons/desktop-icon-512.png",
         "kind": "image",
         "metadata": "",
         "name": "desktop-icon-512.png",
@@ -154,7 +154,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "android-icon-192.png",
+        "file": "Assets/icons/android-icon-192.png",
         "kind": "image",
         "metadata": "",
         "name": "android-icon-192.png",
@@ -163,7 +163,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "android-icon-144.png",
+        "file": "Assets/icons/android-icon-144.png",
         "kind": "image",
         "metadata": "",
         "name": "android-icon-144.png",
@@ -172,7 +172,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "android-icon-96.png",
+        "file": "Assets/icons/android-icon-96.png",
         "kind": "image",
         "metadata": "",
         "name": "android-icon-96.png",
@@ -181,7 +181,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "android-icon-72.png",
+        "file": "Assets/icons/android-icon-72.png",
         "kind": "image",
         "metadata": "",
         "name": "android-icon-72.png",
@@ -190,7 +190,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "android-icon-48.png",
+        "file": "Assets/icons/android-icon-48.png",
         "kind": "image",
         "metadata": "",
         "name": "android-icon-48.png",
@@ -199,7 +199,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "android-icon-36.png",
+        "file": "Assets/icons/android-icon-36.png",
         "kind": "image",
         "metadata": "",
         "name": "android-icon-36.png",
@@ -208,7 +208,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-180.png",
+        "file": "Assets/icons/ios-icon-180.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-180.png",
@@ -217,7 +217,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-167.png",
+        "file": "Assets/icons/ios-icon-167.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-167.png",
@@ -226,7 +226,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-152.png",
+        "file": "Assets/icons/ios-icon-152.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-152.png",
@@ -235,7 +235,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-144.png",
+        "file": "Assets/icons/ios-icon-144.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-144.png",
@@ -244,7 +244,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-120.png",
+        "file": "Assets/icons/ios-icon-120.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-120.png",
@@ -253,7 +253,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-114.png",
+        "file": "Assets/icons/ios-icon-114.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-114.png",
@@ -262,7 +262,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-100.png",
+        "file": "Assets/icons/ios-icon-100.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-100.png",
@@ -271,7 +271,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-80.png",
+        "file": "Assets/icons/ios-icon-80.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-80.png",
@@ -280,7 +280,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-76.png",
+        "file": "Assets/icons/ios-icon-76.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-76.png",
@@ -289,7 +289,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-72.png",
+        "file": "Assets/icons/ios-icon-72.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-72.png",
@@ -298,7 +298,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-60.png",
+        "file": "Assets/icons/ios-icon-60.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-60.png",
@@ -307,7 +307,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-58.png",
+        "file": "Assets/icons/ios-icon-58.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-58.png",
@@ -316,7 +316,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-57.png",
+        "file": "Assets/icons/ios-icon-57.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-57.png",
@@ -325,7 +325,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-50.png",
+        "file": "Assets/icons/ios-icon-50.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-50.png",
@@ -334,7 +334,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-40.png",
+        "file": "Assets/icons/ios-icon-40.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-40.png",
@@ -343,7 +343,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ios-icon-29.png",
+        "file": "Assets/icons/ios-icon-29.png",
         "kind": "image",
         "metadata": "",
         "name": "ios-icon-29.png",
@@ -2521,253 +2521,10 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (2).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (3).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (3).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (4).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (4).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (5).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (5).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (6).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (6).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (7).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (7).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (8).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (8).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (9).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (9).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (10).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (10).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (11).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (11).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (12).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (12).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (13).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (13).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (14).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (14).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (15).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (15).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (16).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (16).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (17).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (17).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (18).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (18).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (19).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (19).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (20).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (20).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (21).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (21).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (22).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (22).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (23).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (23).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Map/tilebg/tile_bg (24).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tile_bg (24).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "NewFile-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewFile-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "Assets/Map/Full/synyx_office_300dpi.png",
         "kind": "image",
         "metadata": "",
         "name": "Assets\\Map\\Full\\synyx_office_300dpi.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "../../../../../Users/bmartin/Documents/GDevelop projects/My project/NewFile-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\..\\Users\\bmartin\\Documents\\GDevelop projects\\My project\\NewFile-1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "../../../../../Users/bmartin/Documents/GDevelop projects/My project/NewFile-1-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\..\\Users\\bmartin\\Documents\\GDevelop projects\\My project\\NewFile-1-1.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -2782,11 +2539,32 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "Assets/obstacle-1.png",
+        "file": "Assets/interaction.png",
         "kind": "image",
         "metadata": "",
-        "name": "Assets/obstacle-1.png",
+        "name": "Assets/interaction.png",
         "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "Assets/sounds/511553__flamowsky__coffee-machine.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Assets/sounds/511553__flamowsky__coffee-machine.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "Assets/sounds/353195_inspectorj_shower-a.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Assets/sounds/353195_inspectorj_shower-a.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "Assets/sounds/toilet.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Assets/sounds/toilet.mp3",
         "userAdded": true
       }
     ],
@@ -2820,7 +2598,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.448
+        "zoomFactor": 0.418
       },
       "objectsGroups": [
         {
@@ -2987,9 +2765,9 @@
           "locked": false,
           "name": "Obstacle",
           "persistentUuid": "4ca421d0-831c-4910-9a35-7b8b7d222d9e",
-          "width": 10,
-          "x": 737,
-          "y": 126,
+          "width": 59,
+          "x": 687,
+          "y": 115,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -2998,30 +2776,14 @@
         {
           "angle": 80.2176,
           "customSize": true,
-          "height": 13,
+          "height": 63,
           "layer": "",
           "locked": false,
           "name": "Obstacle",
           "persistentUuid": "95ba7019-621f-42b0-b810-8b25c2c207c7",
           "width": 133,
-          "x": 688,
-          "y": 474,
-          "zOrder": 5001,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 17.1027,
-          "customSize": true,
-          "height": 11,
-          "layer": "",
-          "locked": false,
-          "name": "Obstacle",
-          "persistentUuid": "3d6b8adc-a879-49e7-b170-d6fe046ab257",
-          "width": 83,
-          "x": 867,
-          "y": 480,
+          "x": 659,
+          "y": 438,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -3046,30 +2808,14 @@
         {
           "angle": 104.993,
           "customSize": true,
-          "height": 13,
+          "height": 64,
           "layer": "",
           "locked": false,
           "name": "Obstacle",
           "persistentUuid": "6a3b7faf-aef5-4bff-ac04-ddb85ec152a7",
           "width": 133,
-          "x": 824,
-          "y": 408,
-          "zOrder": 5001,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 296,
-          "layer": "",
-          "locked": false,
-          "name": "Obstacle",
-          "persistentUuid": "3a8e8d16-26be-4a85-a0c8-7bc84682e484",
-          "width": 10,
-          "x": 947,
-          "y": 130,
+          "x": 845,
+          "y": 395,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -3083,7 +2829,7 @@
           "locked": false,
           "name": "Obstacle",
           "persistentUuid": "5dae7f28-9496-478a-86fe-55b0ac9c331d",
-          "width": 10,
+          "width": 63,
           "x": 895,
           "y": 131,
           "zOrder": 5001,
@@ -3147,9 +2893,9 @@
           "locked": false,
           "name": "Obstacle",
           "persistentUuid": "48d7b53c-946e-4116-81db-abfb8d08b834",
-          "width": 15,
-          "x": 980,
-          "y": 430,
+          "width": 20,
+          "x": 973,
+          "y": 431,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -3158,14 +2904,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 102,
+          "height": 51,
           "layer": "",
           "locked": false,
           "name": "Obstacle",
           "persistentUuid": "c98ad1e8-e7bf-47f8-bff5-c1295f2865f0",
-          "width": 10,
-          "x": 1114,
-          "y": 323,
+          "width": 43,
+          "x": 1094,
+          "y": 368,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -3179,41 +2925,9 @@
           "locked": false,
           "name": "Obstacle",
           "persistentUuid": "4727e940-8101-4e14-88ca-1428f9c4da2f",
-          "width": 10,
+          "width": 62,
           "x": 1144,
           "y": 63,
-          "zOrder": 5001,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 263,
-          "layer": "",
-          "locked": false,
-          "name": "Obstacle",
-          "persistentUuid": "d1e562d1-de25-482d-a5d3-81625d8cbb5c",
-          "width": 10,
-          "x": 1195,
-          "y": 64,
-          "zOrder": 5001,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 61,
-          "layer": "",
-          "locked": false,
-          "name": "Obstacle",
-          "persistentUuid": "9d45552c-ca45-4668-bc77-15240e552b0b",
-          "width": 10,
-          "x": 1250,
-          "y": 326,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -3238,29 +2952,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 213,
+          "height": 235,
           "layer": "",
           "locked": false,
           "name": "Obstacle",
           "persistentUuid": "cc7feb9a-482c-4664-a6a7-e79a0be7c7f1",
-          "width": 10,
+          "width": 131,
           "x": 1353,
-          "y": 2,
-          "zOrder": 5001,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 232,
-          "layer": "",
-          "locked": false,
-          "name": "Obstacle",
-          "persistentUuid": "a56fa43a-26d7-46b2-8835-cb345b32ae6a",
-          "width": 10,
-          "x": 1472,
           "y": -19,
           "zOrder": 5001,
           "numberProperties": [],
@@ -3286,94 +2984,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 13,
-          "layer": "",
-          "locked": false,
-          "name": "Obstacle",
-          "persistentUuid": "69ffd108-da1d-49fd-a8d4-55e67a591c4f",
-          "width": 64,
-          "x": 894,
-          "y": 129,
-          "zOrder": 5001,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 13,
-          "layer": "",
-          "locked": false,
-          "name": "Obstacle",
-          "persistentUuid": "41a1b509-7140-4c46-b059-3ddce1093468",
-          "width": 64,
-          "x": 1142,
-          "y": 64,
-          "zOrder": 5001,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 13,
-          "layer": "",
-          "locked": false,
-          "name": "Obstacle",
-          "persistentUuid": "00d4e8b2-6f0a-4a2e-adaa-7b80d80152f4",
-          "width": 115,
-          "x": 1146,
-          "y": 374,
-          "zOrder": 5001,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 13,
+          "height": 64,
           "layer": "",
           "locked": false,
           "name": "Obstacle",
           "persistentUuid": "6687d69c-6905-4643-80e6-26633a4a41e1",
-          "width": 141,
+          "width": 146,
           "x": 1114,
           "y": 324,
-          "zOrder": 5001,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 13,
-          "layer": "",
-          "locked": false,
-          "name": "Obstacle",
-          "persistentUuid": "e1e5ef92-2d16-4132-94ae-7b3c2e225d2d",
-          "width": 120,
-          "x": 1357,
-          "y": 201,
-          "zOrder": 5001,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 13,
-          "layer": "",
-          "locked": false,
-          "name": "Obstacle",
-          "persistentUuid": "24388e23-1b0c-49f4-a698-4b1d717469fa",
-          "width": 87,
-          "x": 1385,
-          "y": -20,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -3990,22 +3608,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 11,
-          "layer": "",
-          "locked": false,
-          "name": "Obstacle",
-          "persistentUuid": "913f2cae-29cd-4c38-9e06-cd4014cf652b",
-          "width": 118,
-          "x": 1326,
-          "y": 1044,
-          "zOrder": 5001,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 54,
           "layer": "",
           "locked": false,
@@ -4070,14 +3672,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 12,
+          "height": 18,
           "layer": "",
           "locked": false,
           "name": "Obstacle",
           "persistentUuid": "4b11a1fa-565f-460a-8b2c-5732fc476824",
           "width": 118,
-          "x": 1468,
-          "y": 765,
+          "x": 1469,
+          "y": 760,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -5190,14 +4792,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 54,
+          "height": 76,
           "layer": "",
           "locked": false,
           "name": "Obstacle",
           "persistentUuid": "a37ac573-897d-4d29-8ba4-55566b9dd2b2",
-          "width": 16,
-          "x": 947,
-          "y": 491,
+          "width": 32,
+          "x": 948,
+          "y": 473,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -6974,6 +6576,139 @@
           "width": 49,
           "x": 737,
           "y": -889,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": -118.2,
+          "customSize": true,
+          "height": 37,
+          "layer": "",
+          "locked": false,
+          "name": "Kaffeebar",
+          "persistentUuid": "8606380b-4f11-4364-9091-eed4d54d5fb8",
+          "width": 176,
+          "x": -1138,
+          "y": 808,
+          "zOrder": 5002,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Location",
+              "value": "Kaffeebar"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 68,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "persistentUuid": "b1425ce1-6e6f-4a22-b967-e77b2a6c1324",
+          "width": 99,
+          "x": 1327,
+          "y": 1043,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 119,
+          "layer": "",
+          "locked": false,
+          "name": "Kaffeebar",
+          "persistentUuid": "9db2555c-0964-41e7-8f90-06956577e5ae",
+          "width": 151,
+          "x": 1277,
+          "y": 1043,
+          "zOrder": 5003,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 152,
+          "layer": "",
+          "locked": false,
+          "name": "Dusche",
+          "persistentUuid": "93916ee3-054e-48ff-ac86-07039004e517",
+          "width": 114,
+          "x": 1470,
+          "y": 777,
+          "zOrder": 5004,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 176,
+          "layer": "",
+          "locked": false,
+          "name": "Toilette",
+          "persistentUuid": "223edda7-dd13-4c6a-bc17-1af3b579f704",
+          "width": 73,
+          "x": -875,
+          "y": 1486,
+          "zOrder": 5005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 182,
+          "layer": "",
+          "locked": false,
+          "name": "Toilette",
+          "persistentUuid": "4bf6e9cd-3cf1-433f-b9c7-2cb0c25b2805",
+          "width": 75,
+          "x": 1893,
+          "y": 863,
+          "zOrder": 5006,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 77,
+          "layer": "",
+          "locked": false,
+          "name": "Toilette",
+          "persistentUuid": "c7307b12-504f-49a5-81cd-125a2cada5df",
+          "width": 78,
+          "x": 1390,
+          "y": 611,
+          "zOrder": 5007,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 212.249,
+          "customSize": true,
+          "height": 129,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "persistentUuid": "e2a1b943-3ea0-438c-8e56-ef52597bd9fb",
+          "width": 33,
+          "x": 249,
+          "y": -43,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -15841,7 +15576,37 @@
           "height": 32,
           "name": "Obstacle",
           "tags": "",
-          "texture": "Assets/obstacle-1.png",
+          "texture": "Assets/obstacle.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "Kaffeebar",
+          "tags": "",
+          "texture": "Assets/interaction.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "Dusche",
+          "tags": "",
+          "texture": "Assets/interaction.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "Toilette",
+          "tags": "",
+          "texture": "Assets/interaction.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -16236,6 +16001,36 @@
                     "Obstacle"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Kaffeebar"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Dusche"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Toilette"
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -16307,6 +16102,195 @@
                     "-1550",
                     "2050",
                     "1800",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Kaffeemaschine",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Kaffeebar",
+                    "Minda",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Assets/sounds/511553__flamowsky__coffee-machine.mp3",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Dusche",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Dusche",
+                    "Minda",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlayMusic"
+                  },
+                  "parameters": [
+                    "",
+                    "Assets/sounds/353195_inspectorj_shower-a.mp3",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Toilette",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Toilette",
+                    "Minda",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Assets/sounds/toilet.mp3",
                     "",
                     "",
                     ""
